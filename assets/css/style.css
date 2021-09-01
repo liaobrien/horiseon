@@ -25,6 +25,7 @@ body {
   color: #d9dcd6;
 }
 
+/* changed wherever it says "nav" from div to mainstain the style */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -47,17 +48,18 @@ a {
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
-}
-
-.hero {
+/* changed class name to "background" from "hero" to make more sense */
+.background {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
+}
+
+p {
+  font-size: 16px;
 }
 
 .float-left {
