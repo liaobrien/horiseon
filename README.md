@@ -25,4 +25,4 @@ W3's pages on [semantic HTML](https://www.w3schools.com/html/html5_semantic_elem
 
 ## License
 
-Creative Commons License: Our work can be used and repurposed by others as long as credit is given.
+Creative Commons License: Our work can be used by others as long as credit is given.
