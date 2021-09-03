@@ -72,14 +72,14 @@ p {
   float: right;
   margin-left: 25px;
 }
-
+/* start of content styles aka the three large sections */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-/* moved all styles re: the three large bottom sections higher up in the sheet to keep in sequential order */
+/* moved most styles re: the three large bottom sections higher up in the sheet to keep in sequential order */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
